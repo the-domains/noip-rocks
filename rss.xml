@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Noip.Rocks]]></title>
         <description><![CDATA[Noip.Rocks]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/noip-rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 06:05:44 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 10 May 2016 06:16:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/noip-rocks/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Dick Face]]></title>
+            <description><![CDATA[<p>https://www.seedshirt.de/thedickface</p>]]></description>
+            <link>https://thegrid.ai/noip-rocks/the-dick-face/index.html</link>
+            <guid isPermaLink="false">9206a2e6-c3bf-47b5-aadc-2e1aa370f00a</guid>
+            <pubDate>Tue, 10 May 2016 06:16:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Neue Runde, neues Glück]]></title>
             <description><![CDATA[<article><h1>Neue Runde, neues Glück</h1><p>Da sind wir ja mal mega gespannt, wie sich dieses neue Headquarter für all den shizzligen Dizzle so machen wird. Hoffentlich viel besser als die olle Buchstaben-Presse ...</p></article>]]></description>
-            <link>undefinedneue-runde-neues-gluck/index.html</link>
+            <link>https://thegrid.ai/noip-rocks/neue-runde-neues-gluck/index.html</link>
             <guid isPermaLink="false">2483d3f8-70fd-432a-b499-4134bc6f5e6d</guid>
             <pubDate>Tue, 10 May 2016 06:05:32 GMT</pubDate>
         </item>
