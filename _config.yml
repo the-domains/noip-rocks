@@ -1,6 +1,6 @@
 name: Noip.Rocks
 favicon: null
-layout_spectrum: 0.37367
+layout_spectrum: 0.26299
 typography_spectrum: 0.16494
 title: Noip.Rocks
 cta:
@@ -22,8 +22,8 @@ color:
     - '#1f1f1f'
     - '#ababab'
     - '#656565'
-  brandStrength: 0.5
-  lightness: 0.8125
+  brandStrength: 0
+  lightness: 0.125
   saturation: 0.1875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0
 purpose: []
