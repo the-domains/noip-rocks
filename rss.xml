@@ -4,7 +4,7 @@
         <description><![CDATA[Noip.Rocks]]></description>
         <link>https://thegrid.ai/noip-rocks/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 10 May 2016 07:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2016 07:25:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/noip-rocks/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Kung Fu Motion Visualization]]></title>
@@ -61,13 +61,6 @@
             <link>http://www.enlightapp.com/blog/our-ceo-falls-asleep-we-go-wild/</link>
             <guid isPermaLink="false">d2f81f90-ca2d-43e0-8e72-a8df1145bc16</guid>
             <pubDate>Tue, 10 May 2016 07:04:44 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/10dee14d-942b-404f-b127-b0726a6cb4f1.jpg">]]></description>
-            <link>https://thegrid.ai/noip-rocks/7a0f5aac-5848-48a3-aadc-c1b52c2ac90d/index.html</link>
-            <guid isPermaLink="false">7a0f5aac-5848-48a3-aadc-c1b52c2ac90d</guid>
-            <pubDate>Tue, 10 May 2016 07:00:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
