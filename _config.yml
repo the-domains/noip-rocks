@@ -1,6 +1,6 @@
 name: Noip.Rocks
 favicon: null
-layout_spectrum: 0.7474
+layout_spectrum: 0.62081
 typography_spectrum: 0.16494
 title: Noip.Rocks
 cta:
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#a10074'
-    - '#077546'
-    - '#fefefe'
-    - '#ac9da9'
-  brandStrength: 0
-  lightness: 0.1875
-  saturation: 0
+    - '#ffffff'
+    - '#c72425'
+    - '#1f1f1f'
+    - '#ababab'
+    - '#656565'
+  brandStrength: 0.125
+  lightness: 0.4375
+  saturation: 0.1875
   rhythmicContrast: 0
 purpose: []
